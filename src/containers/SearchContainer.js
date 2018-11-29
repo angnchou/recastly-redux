@@ -7,8 +7,8 @@ import handleVideoSearch from '../actions/search.js';
 
 
 
-var mapStateToProps = function (state, ownProps) {
-    return;
+var mapStateToProps = () => {
+    return {};
 }
 
 var mapDispatchToProps = function (dispatch) {
