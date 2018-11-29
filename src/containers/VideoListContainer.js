@@ -7,4 +7,15 @@ var VideoListContainer = () => {};
 //TODO: define a VideoListContainer component which will hook up your action
 // dispatchers with your VideoList component props.
 
+var mapStateToProps = function(state, ownProps) {
+    return 
+}
+
+var mapDispatchToProps = function(dispatch) {
+    return {
+        
+    }
+}
+
+
 export default VideoListContainer;
